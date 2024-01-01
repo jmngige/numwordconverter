@@ -38,11 +38,10 @@ System.out.println(inwords);
 
     One Hundred Million
 
-**Contributions:**
 
-We welcome contributions and suggestions from the community. Feel free to raise issues, submit pull requests, or provide feedback to help enhance the functionality and usability of the NumberToWordsConverter library.
 
-**MIT License**
+
+MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
