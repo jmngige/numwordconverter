@@ -1,6 +1,7 @@
 ## Number To Word Converter
 
 `v0.1.0-beta` version
+
 **Getting Started:**
 
 To incorporate the NumberToWordsConverter library into your project, add the following dependency to your Maven configuration:
